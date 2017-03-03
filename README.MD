@@ -30,10 +30,6 @@ _The program created while doing the How-To: GitHub API guide.  You can download
 * _Run gulp build, followed by gulp serve._
 
 
-## Support and contact details
-
-_Please email me at russspruce@gmail.com with any questions or comments._
-
 ## Technologies Used
 
 _{Bootstrap}_
