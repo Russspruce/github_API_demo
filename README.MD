@@ -1,6 +1,6 @@
 # _GitHub API Demo_
 
-#### _A program made with JS to track down info from different GitHub repositories that are searched in the form. 5/27/2016}_
+#### _A program made with JS to track down info from different GitHub repositories that are searched in the form._
 
 #### By _**{Andrew Russo/OSU Student}**_
 
