@@ -1,0 +1,39 @@
+$blue : #1F5EA3;
+$orange : #EC722F;
+$lightblue : #4A7ABA;
+
+body {
+  background-color: $blue;
+  h1 {
+    text-align: center;
+    color: $orange;
+    margin-bottom: 40px;
+  }
+  // label {
+  //   font-family: oswald;
+  // }
+  // input{
+  //   font-family: oswald;
+  //   color: $lightblue;
+  // }
+  .showGithub {
+    font-family: oswald;
+    background-color: white;
+    border-radius: 10px;
+    padding: 40px;
+    margin-top: 20px;
+  }
+  .gitSearch {
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px;
+    label {
+      font-family: oswald;
+    }
+    input{
+      font-family: oswald;
+      color: $lightblue;
+    }
+  }
+
+}
